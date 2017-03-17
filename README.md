@@ -10,7 +10,7 @@
 
 - **회장** : **[손재락](https://github.com/BCSDLab/Profile/blob/master/Introduce/JaerockSon.md)** - 컴퓨터공학부 13학번
 - **부회장** : **[박동렬](https://github.com/BCSDLab/Profile/blob/master/Introduce/donglul.md)** - 전자공학과 15학번
-- **SW부장** : **[최하늘](https://github.com/BCSDLab/Profile/blob/master/Introduce/Haneul.md)** - 컴퓨터공학부 12학번
+
 
 
 ###Member
@@ -26,8 +26,9 @@
 - **[정찬혁](https://github.com/BCSDLab/Profile/blob/master/Introduce/Chanhyeok.md)** - 컴퓨터공학부 12학번
 - **[최선문](https://github.com/BCSDLab/Profile/blob/master/Introduce/Seonmun.md)** - 컴퓨터공학부 14학번
 - **[최유경](https://github.com/BCSDLab/Profile/blob/master/Introduce/youkyung.md)** - 컴퓨터공학부 13학번
+- **[최하늘](https://github.com/BCSDLab/Profile/blob/master/Introduce/Haneul.md)** - 컴퓨터공학부 12학번 
 - **[김진수](https://github.com/BCSDLab/Profile/blob/master/Introduce/Jinsu.md)** - 메카트로닉스공학부 12학번
-- **[김용규]()** - 컴퓨터공학부 13학번 - 
+- **[김용규]()** - 컴퓨터공학부 13학번 -
 - **[정태훈]()** - 컴퓨터공학부 15학번 -
 - **[이재영]()** - 정보통신공학과 10학번 -
 - **[이찬솔]()** - 컴퓨터공학부 15학번 -
@@ -37,3 +38,7 @@
 - **[허수윤]()** - 컴퓨터공학부 16학번 -
 - **[우정연]()** - 컴퓨터공학부 15학번 -
 - **[주해용]()** - 컴퓨터공학부 11학번 -
+- **[김예은]()** - 컴퓨터공학부 15학번 -
+- **[김민경]()** - 컴퓨터공학부 15학번 -
+- **[손채연]()** - 컴퓨터공학부 16학번 -
+- **[한주현]()** - 컴퓨터공학부 16학번 -
