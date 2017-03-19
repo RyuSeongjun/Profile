@@ -1,19 +1,19 @@
-##Introduce
-######Name(KO) : 김남훈
-######Name(US) : Namhoon Kim
-######Age : 29
-######E-Mail : mydamyda1032@gmail.com
-######Nationality : Republic of Korea
-######University : KoreaTech(Graduated)
-######Major : Computer Science Engineering
+## Introduce
+###### Name(KO) : 김남훈
+###### Name(US) : Namhoon Kim
+###### Age : 29
+###### E-Mail : mydamyda1032@gmail.com
+###### Nationality : Republic of Korea
+###### University : KoreaTech(Graduated)
+###### Major : Computer Science Engineering
 
-##Belong to Organization
-######판교지역 개발자 네트워크 PangyoParty [의장]
-######Firebase Korea Organizer
-######Slow Campus Speaker
+## Belong to Organization
+###### 판교지역 개발자 네트워크 PangyoParty [의장]
+###### Firebase Korea Organizer
+###### Slow Campus Speaker
 
 
-##Internal Activity
+## Internal Activity
 - [2008.03~2014.06] Basia Family
 - [2008, 2009, 2013] 컴퓨터공학부 학생회
 - [2012.03~2014.06] LINK Lab
@@ -23,7 +23,7 @@
 - [2014.05~2015.06] Intersection 창립자/대표
 - [2016.02~2016.12] IT특성화동아리 BCSD Lab 창립/네트워킹 담당
 
-##External Activity
+## External Activity
 - [2011.10~2011.11] 게임물등급위원회 DB구축 인턴
 - [2011.11~2011.12] 문화체육관광부 문화콘텐츠산업실 SW SL(DBA)
 - [2012.03~2012.09] Microsoft Korea SW Evangelist
@@ -43,7 +43,7 @@
 - [2017.01~] Firebase Korea Organizer
 - [2017.01~] Slow Campus Speaker
 
-##Speaker
+## Speaker
 - [2015.05.27] 연세대학교 진로 탐색 강연
 - [2015.08.22] LG Dream Challenger Remind 강연
 - [2015.10.15] 삼성전자 오픈소스 컨퍼런스 SOSCON Crash Report Speaker

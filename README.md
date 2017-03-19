@@ -1,19 +1,19 @@
-﻿#Profile
+# Profile
 
 
 한국기술교육대학교 IT특성화동아리 BCSDLab 동아리원 소개 페이지입니다.
 
-###Founder
+### Founder
 - **[김남훈](https://github.com/BCSDLab/Profile/blob/master/Introduce/NamhoonKim.md)** - 컴퓨터공학부 08학번
 
-###Executive
+### Executive
 
 - **회장** : **[손재락](https://github.com/BCSDLab/Profile/blob/master/Introduce/JaerockSon.md)** - 컴퓨터공학부 13학번
 - **부회장** : **[박동렬](https://github.com/BCSDLab/Profile/blob/master/Introduce/donglul.md)** - 전자공학과 15학번
 
 
 
-###Member
+### Member
 - **[정재현](https://github.com/BCSDLab/Profile/blob/master/Introduce/pathFinder-JaeHyeunJung)** - 컴퓨터공학부 10학번
 - **[김동우](https://github.com/BCSDLab/Profile/blob/master/Introduce/Dongwoo.md)** - 컴퓨터공학부 12학번
 - **[김범영](https://github.com/BCSDLab/Profile/blob/master/Introduce/Beomyeong.md)** - 컴퓨터공학부 11학번
