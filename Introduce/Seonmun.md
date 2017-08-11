@@ -10,4 +10,5 @@ SeonMun Choi
 Activity
 ---
 - A member of game study in BCSD Lab (2016)
-- The Leader of unreal study in BCSD Lab(2017.03~)
+- The Leader of game study in BCSD Lab(2017.03~)
+- The Vice-CEO of BCSD Lab(2017.09~)
